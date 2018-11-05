@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/golden"
+
+    >
+
+    <!--<ImageView-->
+        <!--android:id="@+id/imgLogo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:src="@drawable/wwe_logo" />-->
+
+    <!--<TextView-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textAlignment="center"-->
+        <!--android:layout_marginBottom="400dp"-->
+        <!--android:textSize="52dp"-->
+        <!--android:textColor="#0efaf6"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:text="JSTC" />-->
+
+
+    <!--<TextView-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_marginBottom="300dp"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:text="Fleet Management"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textColor="#0efaf6"-->
+        <!--android:textSize="32dp"-->
+        <!--android:textStyle="bold" />-->
+
+
+
+
+    <!--<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textSize="12dp"
+        android:textColor="#454545"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:text="www.androidhive.info" />-->
+
+</RelativeLayout>
